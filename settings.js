@@ -4,7 +4,7 @@ const chalk = require('chalk')
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -16,16 +16,16 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
-global.owner = ['94774071805'] //ur owner number
-global.ownername = "Kaveesha Sithum" //ur owner name
+global.owner = ['923080613785'] //ur owner number
+global.ownername = "ĎÊvÌĹ Ķìñğ" //ur owner name
 global.ytname = "YT: kavee" //ur yt chanel name
 global.socialm = "Dark Nero" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
 //bot bomdy 
-global.ownernomer = "94774071805" //ur number
-global.premium = ['94774071805'] //ur premium number
-global.botname = 'DarkNero Bot MD V7' //ur bot name
+global.ownernomer = "923080613785" //ur number
+global.premium = ['923080613785'] //ur premium number
+global.botname = 'ĎÊvÌĹ ķìñğ MD V7' //ur bot name
 global.linkz = "https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@kaveebroyt5303" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARKNERO--V7' //script link
